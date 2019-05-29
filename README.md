@@ -1,2 +1,0 @@
-# VueQuiz
-Created with CodeSandbox
